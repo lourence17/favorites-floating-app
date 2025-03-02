@@ -1,7 +1,7 @@
 # Favorite Apps and Folders Manager
 
 ## Project Description
-This Windows Forms application allows users to add, manage, and launch their frequently used applications and folders as favorites. It features a rounded corner, draggable form design that starts in the top-right corner of the screen. Favorites are displayed as buttons with custom application icons, making it easy to add, remove, or open them.
+This Windows Forms application allows users to add, manage, and launch their frequently used applications and folders as favorites. It features a rounded corner, design that starts in the top-right corner of the screen. Favorites are displayed as buttons with custom application icons, making it easy to add, remove, or open them.
 
 ## Features
 - **Rounded Corner Design:** Offers an aesthetic and modern user interface.
