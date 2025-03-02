@@ -1,0 +1,17 @@
+C:\Users\Furka\source\repos\Favorites\obj\Debug\net8.0-windows\Favorites.Form1.resources
+C:\Users\Furka\source\repos\Favorites\obj\Debug\net8.0-windows\Favorites.csproj.GenerateResource.cache
+C:\Users\Furka\source\repos\Favorites\obj\Debug\net8.0-windows\Favorites.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furka\source\repos\Favorites\obj\Debug\net8.0-windows\Favorites.AssemblyInfoInputs.cache
+C:\Users\Furka\source\repos\Favorites\obj\Debug\net8.0-windows\Favorites.AssemblyInfo.cs
+C:\Users\Furka\source\repos\Favorites\obj\Debug\net8.0-windows\Favorites.csproj.CoreCompileInputs.cache
+C:\Users\Furka\source\repos\Favorites\bin\Debug\net8.0-windows\Favorites.exe
+C:\Users\Furka\source\repos\Favorites\bin\Debug\net8.0-windows\Favorites.deps.json
+C:\Users\Furka\source\repos\Favorites\bin\Debug\net8.0-windows\Favorites.runtimeconfig.json
+C:\Users\Furka\source\repos\Favorites\bin\Debug\net8.0-windows\Favorites.dll
+C:\Users\Furka\source\repos\Favorites\bin\Debug\net8.0-windows\Favorites.pdb
+C:\Users\Furka\source\repos\Favorites\obj\Debug\net8.0-windows\Favorites.dll
+C:\Users\Furka\source\repos\Favorites\obj\Debug\net8.0-windows\refint\Favorites.dll
+C:\Users\Furka\source\repos\Favorites\obj\Debug\net8.0-windows\Favorites.pdb
+C:\Users\Furka\source\repos\Favorites\obj\Debug\net8.0-windows\Favorites.genruntimeconfig.cache
+C:\Users\Furka\source\repos\Favorites\obj\Debug\net8.0-windows\ref\Favorites.dll
+C:\Users\Furka\source\repos\Favorites\obj\Debug\net8.0-windows\Favorites.Properties.Resources.resources
