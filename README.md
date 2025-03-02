@@ -43,3 +43,7 @@ This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LI
 ## Acknowledgments
 - Inspired by the need for a simple, customizable desktop favorite manager.
 - Thanks to the Windows Forms community for providing robust tools and libraries.
+
+## Known issues 
+- You can't drag the form.
+- App or folder icon doesn't show on the form. 
